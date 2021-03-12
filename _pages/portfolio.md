@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio
+permalink: /portfolio/
 title: "Portfolio"
 gallery:
   - url: /assets/images/encased-rose.jpeg
