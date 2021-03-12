@@ -57,12 +57,18 @@ plugins:
 
 author:
   name   : "Peter Ahrens"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/bio-photo.jpeg"
+  bio    : "Computer Scientist, Mathematician, and Glassblower at MIT."
   links:
     #    - label: "Website"
     #      icon: "fas fa-fw fa-link"
     #      url: "https://"
+    - label: "Email"
+      icon: "fas fa-fw icon-pincolor fa-envelope"
+      url: "mailto:pahrens@mit.edu"
+    - label: "Address"
+      icon: "fas fa-fw icon-pincolor fa-map-pin"
+      url: "https://goo.gl/maps/XuQghrDVQk47Y8Xe7"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/peterahrens"
