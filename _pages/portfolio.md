@@ -52,6 +52,4 @@ glass:
     title: "Zebra Crackled Vase Closeup"
 ---
 
-I miss glassblowing.
-
 {% include gallery id="glass" caption="Glass I made at the [MIT Glass Lab](https://glasslab.scripts.mit.edu/)." %}
