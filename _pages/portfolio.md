@@ -1,7 +1,7 @@
 ---
 permalink: /portfolio/
 title: "Portfolio"
-gallery:
+glass:
   - url: /assets/images/encased-rose.jpeg
     image_path: /assets/thumbnails/encased-rose.jpeg
     alt: "Encased Rose Paperweight"
@@ -51,6 +51,7 @@ gallery:
     alt: "Zebra Crackled Vase Closeup"
     title: "Zebra Crackled Vase Closeup"
 ---
-test
 
-{% include gallery caption="Some glass I made." %}
+I miss glassblowing.
+
+{% include gallery id="glass" caption="Glass I made at the [MIT Glass Lab](https://glasslab.scripts.mit.edu/)." %}
