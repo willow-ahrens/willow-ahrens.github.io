@@ -2,9 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
-### Load Plus Communication Balancing of Contiguous Sparse Matrix Partitions
-P. Ahrens, “Load Plus Communication Balancing of Contiguous Sparse Matrix Partitions,” arXiv:2007.16192 [cs], Jul. 2020.
-[Link](https://arxiv.org/abs/2007.16192). [Download](/assets/documents/ahrens_load_2020-2.pdf).
+### Contiguous Graph Partitioning For Optimal Total Or Bottleneck Communication
+P. Ahrens, “Contiguous Graph Partitioning For Optimal Total Or Bottleneck Communication,” arXiv:2007.16192 [cs], Jun. 2021.
+[Link](https://arxiv.org/abs/2007.16192v4). [Download](/assets/documents/ahrens_contiguous_2021.pdf).
 
 ### Algorithms for Efficient Reproducible Floating Point Summation
 P. Ahrens, J. Demmel, and H. D. Nguyen, “Algorithms for Efficient Reproducible Floating Point Summation,” ACM Trans. Math. Softw., vol. 46, no. 3, p. 22:1–22:49, Jul. 2020.
