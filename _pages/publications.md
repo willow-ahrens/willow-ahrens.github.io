@@ -2,6 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
+### An Asymptotic Cost Model for Autoscheduling Sparse Tensor Programs
+P. Ahrens, F. Kjolstad, and S. Amarasinghe, “An Asymptotic Cost Model for Autoscheduling Sparse Tensor Programs,” arXiv:2111.14947 [cs], Nov. 2021. [Link](http://arxiv.org/abs/2111.14947). [Download](/assets/documents/ahrens_asymptotic_2021.pdf).
+
 ### Contiguous Graph Partitioning For Optimal Total Or Bottleneck Communication
 P. Ahrens, “Contiguous Graph Partitioning For Optimal Total Or Bottleneck Communication,” arXiv:2007.16192 [cs], Jun. 2021.
 [Link](https://arxiv.org/abs/2007.16192v4). [Download](/assets/documents/ahrens_contiguous_2021.pdf).
