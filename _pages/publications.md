@@ -2,6 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
+
+[Curriculum Vitae](/assets/documents/peter_ahrens_cv.pdf)
+
 ### An Asymptotic Cost Model for Autoscheduling Sparse Tensor Programs
 P. Ahrens, F. Kjolstad, and S. Amarasinghe, “An Asymptotic Cost Model for Autoscheduling Sparse Tensor Programs,” arXiv:2111.14947 [cs], Nov. 2021. [Link](http://arxiv.org/abs/2111.14947). [Download](/assets/documents/ahrens_asymptotic_2021.pdf).
 
