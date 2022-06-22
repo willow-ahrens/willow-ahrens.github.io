@@ -6,7 +6,8 @@ title: "Publications"
 [Curriculum Vitae](/assets/documents/peter_ahrens_cv.pdf)
 
 ### Autoscheduling For Sparse Tensor Algebra With An Asymptotic Cost Model
-P. Ahrens, F. Kjolstad, and S. Amarasinghe, “Autoscheduling For Sparse Tensor Algebra With An Asymptotic Cost Model,” in Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation, New York, NY, USA, Jun. 2022, pp. 269–285, [Link](https://doi.org/10.1145/3519939.3523442). [Download](/assets/documents/ahrens_autoscheduling_2022.pdf).
+P. Ahrens, F. Kjolstad, and S. Amarasinghe, “Autoscheduling For Sparse Tensor Algebra With An Asymptotic Cost Model,” in Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation, New York, NY, USA, Jun. 2022, pp. 269–285.
+[Link](https://doi.org/10.1145/3519939.3523442). [Download](/assets/documents/ahrens_autoscheduling_2022.pdf).
 
 ### Contiguous Graph Partitioning For Optimal Total Or Bottleneck Communication
 P. Ahrens, “Contiguous Graph Partitioning For Optimal Total Or Bottleneck Communication,” arXiv:2007.16192 [cs], Jun. 2021.
