@@ -22,18 +22,18 @@ glass:
     image_path: /assets/thumbnails/rose-purse.jpeg
     alt: "Glass Purse with Rose"
     title: "Glass Purse with Rose"
-  - url: /assets/images/the-goblet.jpeg
-    image_path: /assets/thumbnails/the-goblet.jpeg
-    alt: "The Goblet"
-    title: "The Goblet"
-  - url: /assets/images/contrast-melting-vase.jpeg
-    image_path: /assets/thumbnails/contrast-melting-vase.jpeg
-    alt: "Contrast Melting Vase"
-    title: "Contrast Melting Vase"
   - url: /assets/images/zebra-crackled-vase.jpeg
     image_path: /assets/thumbnails/contrast-crackled-vase.jpeg
     alt: "Contrast Crackled Vase"
     title: "Contrast Crackled Vase"
+  - url: /assets/images/contrast-melting-vase.jpeg
+    image_path: /assets/thumbnails/contrast-melting-vase.jpeg
+    alt: "Contrast Melting Vase"
+    title: "Contrast Melting Vase"
+  - url: /assets/images/the-goblet.jpeg
+    image_path: /assets/thumbnails/the-goblet.jpeg
+    alt: "The Goblet"
+    title: "The Goblet"
   - url: /assets/images/ruby-vase.jpeg
     image_path: /assets/thumbnails/ruby-vase.jpeg
     alt: "Ruby Vase"
