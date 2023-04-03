@@ -5,6 +5,9 @@ title: "Publications"
 
 [Curriculum Vitae](/assets/documents/peter_ahrens_cv.pdf)
 
+### Looplets: A Language for Structured Coiteration
+W. Ahrens, D. Donenfeld, F. Kjolstad, and S. Amarasinghe, “Looplets: A Language for Structured Coiteration,” in Proceedings of the 21st ACM/IEEE International Symposium on Code Generation and Optimization, in CGO 2023. New York, NY, USA: Association for Computing Machinery, Feb. 2023, pp. 41–54. [Link](10.1145/3579990.3580020). [Download](/assets/documents/ahrens_looplets_2023.pdf)
+
 ### Autoscheduling For Sparse Tensor Algebra With An Asymptotic Cost Model
 P. Ahrens, F. Kjolstad, and S. Amarasinghe, “Autoscheduling For Sparse Tensor Algebra With An Asymptotic Cost Model,” in Proceedings of the 43rd ACM SIGPLAN International Conference on Programming Language Design and Implementation, New York, NY, USA, Jun. 2022, pp. 269–285.
 [Link](https://doi.org/10.1145/3519939.3523442). [Download](/assets/documents/ahrens_autoscheduling_2022.pdf).
