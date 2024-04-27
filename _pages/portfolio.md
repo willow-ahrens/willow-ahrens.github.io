@@ -32,8 +32,8 @@ glass:
     title: "Black Wrap Glass Purse"
   - url: /assets/images/purple-patch-purse.jpeg
     image_path: /assets/thumbnails/purple-patch-purse.jpeg
-    alt: "Purple Patch Glass Purse"
-    title: "Purple Patch Glass Purse"
+    alt: "Purple Glass Purse with Patches"
+    title: "Purple Patch Glass with Patches"
   - url: /assets/images/wavy-pink-purse.jpeg
     image_path: /assets/thumbnails/wavy-pink-purse.jpeg
     alt: "Wavy Pink Glass Purse"
