@@ -34,10 +34,10 @@ glass:
     image_path: /assets/thumbnails/purple-patch-purse.jpeg
     alt: "Purple Glass Purse with Patches"
     title: "Purple Patch Glass with Patches"
-  - url: /assets/images/wavy-pink-purse.jpeg
-    image_path: /assets/thumbnails/wavy-pink-purse.jpeg
-    alt: "Wavy Pink Glass Purse"
-    title: "Wavy Pink Glass Purse"
+#  - url: /assets/images/wavy-pink-purse.jpeg
+#    image_path: /assets/thumbnails/wavy-pink-purse.jpeg
+#    alt: "Wavy Pink Glass Purse"
+#    title: "Wavy Pink Glass Purse"
   - url: /assets/images/reticello-morning-glory-purse.jpeg
     image_path: /assets/thumbnails/reticello-morning-glory-purse.jpeg
     alt: "Reticello Glass Purse with Morning Glory"
@@ -50,10 +50,10 @@ glass:
     image_path: /assets/thumbnails/contrast-melting-vase.jpeg
     alt: "Contrast Melting Vase"
     title: "Contrast Melting Vase"
-  - url: /assets/images/the-goblet.jpg
-    image_path: /assets/thumbnails/the-goblet.jpeg
-    alt: "The Goblet"
-    title: "The Goblet"
+#  - url: /assets/images/the-goblet.jpg
+#    image_path: /assets/thumbnails/the-goblet.jpeg
+#    alt: "The Goblet"
+#    title: "The Goblet"
   - url: /assets/images/ruby-vase.jpeg
     image_path: /assets/thumbnails/ruby-vase.jpeg
     alt: "Ruby Vase"
