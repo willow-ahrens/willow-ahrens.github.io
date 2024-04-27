@@ -22,6 +22,26 @@ glass:
     image_path: /assets/thumbnails/rose-purse.jpeg
     alt: "Glass Purse with Rose"
     title: "Glass Purse with Rose"
+  - url: /assets/images/reticello-rose-purse.jpg
+    image_path: /assets/thumbnails/reticello-rose-purse.jpeg
+    alt: "Reticello Glass Purse with Rose"
+    title: "Reticello Glass Purse with Rose"
+  - url: /assets/images/black-wrap-purse.jpg
+    image_path: /assets/thumbnails/black-wrap-purse.jpeg
+    alt: "Black Wrap Glass Purse"
+    title: "Black Wrap Glass Purse"
+  - url: /assets/images/purple-patch-purse.jpeg
+    image_path: /assets/thumbnails/purple-patch-purse.jpeg
+    alt: "Purple Patch Glass Purse"
+    title: "Purple Patch Glass Purse"
+  - url: /assets/images/wavy-pink-purse.jpeg
+    image_path: /assets/thumbnails/wavy-pink-purse.jpeg
+    alt: "Wavy Pink Glass Purse"
+    title: "Wavy Pink Glass Purse"
+  - url: /assets/images/reticello-morning-glory-purse.jpg
+    image_path: /assets/thumbnails/reticello-morning-glory-purse.jpeg
+    alt: "Reticello Glass Purse with Morning Glory"
+    title: "Reticello Glass Purse with Morning Glory"
   - url: /assets/images/contrast-crackled-vase.jpeg
     image_path: /assets/thumbnails/contrast-crackled-vase.jpeg
     alt: "Contrast Crackled Vase"
