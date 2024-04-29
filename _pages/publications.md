@@ -5,6 +5,12 @@ title: "Publications"
 
 [Curriculum Vitae](/assets/documents/willow_ahrens_cv.pdf)
 
+### Finch: Sparse and Structured Array Programming with Control Flow
+W. Ahrens, T. F. Collin, R. Patel, K. Deeds, C. Hong, and S. Amarasinghe, “Finch: Sparse and Structured Array Programming with Control Flow.” arXiv:2404.16730[cs], Apr. 2024. [Link](http://arxiv.org/abs/2404.16730) [Download](/assets/documents/ahrens_finch_2024.pdf)
+
+### Mechanised Hypersafety Proofs about Structured Data
+V. Gladshtein, Q. Zhao, W. Ahrens, S. Amarasinghe, and I. Sergey, “Mechanised Hypersafety Proofs about Structured Data.” arXiv:2404.06477[cs], Apr. 2024. [Link](https://arxiv.org/abs/2404.06477) [Download](/assets/documents/gladshtein_mechanised_2024.pdf)
+
 ### Looplets: A Language for Structured Coiteration
 W. Ahrens, D. Donenfeld, F. Kjolstad, and S. Amarasinghe, “Looplets: A Language for Structured Coiteration,” in Proceedings of the 21st ACM/IEEE International Symposium on Code Generation and Optimization, in CGO 2023. New York, NY, USA: Association for Computing Machinery, Feb. 2023, pp. 41–54. [Link](https://doi.org/10.1145/3579990.3580020). [Download](/assets/documents/ahrens_looplets_2023.pdf)
 
