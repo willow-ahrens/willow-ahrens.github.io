@@ -9,6 +9,10 @@ title: "Publications"
 Ahmad Abdelfattah, Willow Ahrens, Hartwig Anzt, Chris Armstrong, Ben Brock, Aydin Buluc, Federico Busato, Terry Cojean, Tim Davis, Jim Demmel, Grace Dinh, David Gardener, Jan Fiala, Mark Gates, Azzam Haider, Toshiyuki Imamura, Pedro Valero Lara, Jose Moreira, Sherry Li, Piotr Luszczek, Max Melichenko, Jose Moeira, Yvan Mokwinski, Riley Murray, Spencer Patty, Slaven Peles, Tobias Ribizel, Jason Riedy, Siva Rajamanickam, Piyush Sao, Manu Shantharam, Keita Teranishi, Stan Tomov, Yu-Hsiang Tsai, and Heiko Weichelt, “Interface for Sparse Linear Algebra Operations,” arXiv, November 2024.
 [Link](https://doi.org/10.48550/arXiv.2411.13259). [Download](/assets/documents/abdelfattah_interface_2024.pdf).
 
+### Galley: Modern Query Optimization for Sparse Tensor Programs
+Kyle Deeds, Willow Ahrens, Magda Balazinska, and Dan Suciu, “Galley: Modern Query Optimization for Sparse Tensor Programs,” arXiv, August 2024.
+[Link](https://doi.org/10.48550/arXiv.2408.14706). [Download](/assets/documents/deeds_galley_2024.pdf).
+
 ### The Continuous Tensor Abstraction: Where Indices are Real
 Jaeyeon Won, Willow Ahrens, Joel S. Emer, and Saman Amarasinghe, “The Continuous Tensor Abstraction: Where Indices are Real,” arXiv, July 2024.
 [Link](https://doi.org/10.48550/arXiv.2407.01742). [Download](/assets/documents/won_continuous_2024.pdf).
