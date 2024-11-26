@@ -94,4 +94,4 @@ title: "Publications"
 
 
 # Example usage
-convert_bibtex_to_markdown('Website.bib', 'publications2.md')
+convert_bibtex_to_markdown('Website.bib', 'publications.md')
