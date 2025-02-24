@@ -8,6 +8,8 @@ Glassblowing adds balance to my life. I blow glass and teach first-time glassblo
 
 # Updates
 
+- February 2025: I have joined the Program Committee for [PLDI 2025](https://pldi25.sigplan.org/) and [CC 2025](https://conf.researchr.org/home/CC-2025).
+
 - February 3, 2025: Systec is in the [MIT News](https://news.mit.edu/2025/user-friendly-system-can-help-developers-build-more-efficient-simulations-and-ai-models-0203)!
 
 - December 18, 2025: Our publication ["Finch: Sparse and Structured Array Programming with Control Flow"](http://arxiv.org/abs/2404.16730) has been accepted to OOPSLA 2025!
