@@ -5,6 +5,10 @@ title: "Publications"
 
 [Curriculum Vitae](/assets/documents/willow_ahrens_cv.pdf)
 
+### SySTeC: A Symmetric Sparse Tensor Compiler
+Radha Patel, Willow Ahrens, and Saman Amarasinghe, “SySTeC: A Symmetric Sparse Tensor Compiler,” CGO '25, March 2025.
+[Link](https://doi.org/10.1145/3696443.3708919). [Download](/assets/documents/patel_systec_2025.pdf).
+
 ### Interface for Sparse Linear Algebra Operations
 Ahmad Abdelfattah, Willow Ahrens, Hartwig Anzt, Chris Armstrong, Ben Brock, Aydin Buluc, Federico Busato, Terry Cojean, Tim Davis, Jim Demmel, Grace Dinh, David Gardener, Jan Fiala, Mark Gates, Azzam Haider, Toshiyuki Imamura, Pedro Valero Lara, Jose Moreira, Sherry Li, Piotr Luszczek, Max Melichenko, Jose Moeira, Yvan Mokwinski, Riley Murray, Spencer Patty, Slaven Peles, Tobias Ribizel, Jason Riedy, Siva Rajamanickam, Piyush Sao, Manu Shantharam, Keita Teranishi, Stan Tomov, Yu-Hsiang Tsai, and Heiko Weichelt, “Interface for Sparse Linear Algebra Operations,” arXiv, November 2024.
 [Link](https://doi.org/10.48550/arXiv.2411.13259). [Download](/assets/documents/abdelfattah_interface_2024.pdf).
@@ -16,10 +20,6 @@ Kyle Deeds, Willow Ahrens, Magda Balazinska, and Dan Suciu, “Galley: Modern Qu
 ### The Continuous Tensor Abstraction: Where Indices are Real
 Jaeyeon Won, Willow Ahrens, Joel S. Emer, and Saman Amarasinghe, “The Continuous Tensor Abstraction: Where Indices are Real,” arXiv, July 2024.
 [Link](https://doi.org/10.48550/arXiv.2407.01742). [Download](/assets/documents/won_continuous_2024.pdf).
-
-### SySTeC: A Symmetric Sparse Tensor Compiler
-Radha Patel, Willow Ahrens, and Saman Amarasinghe, “SySTeC: A Symmetric Sparse Tensor Compiler,” arXiv, June 2024.
-[Link](https://doi.org/10.48550/arXiv.2406.09266). [Download](/assets/documents/patel_systec_2024.pdf).
 
 ### Mechanised Hypersafety Proofs about Structured Data
 Vladimir Gladshtein, Qiyuan Zhao, Willow Ahrens, Saman Amarasinghe, and Ilya Sergey, “Mechanised Hypersafety Proofs about Structured Data,” PLDI, June 2024.
@@ -45,13 +45,13 @@ Willow Ahrens, “Contiguous Graph Partitioning For Optimal Total Or Bottleneck 
 Willow Ahrens, and Erik G. Boman, “On Optimal Partitioning For Sparse Matrices In Variable Block Row Format,” arXiv, May 2021.
 [Link](https://doi.org/10.48550/arXiv.2005.12414). [Download](/assets/documents/ahrens_optimal_2021.pdf).
 
-### Algorithms for Efficient Reproducible Floating Point Summation
-Willow Ahrens, James Demmel, and Hong Diep Nguyen, “Algorithms for Efficient Reproducible Floating Point Summation,” ACM Trans. Math. Softw., July 2020.
-[Link](https://doi.org/10.1145/3389360). [Download](/assets/documents/ahrens_algorithms_2020.pdf).
-
 ### Sparse Tensor Transpositions: Brief Announcement
 Suzanne Mueller, Willow Ahrens, Stephen Chou, Fredrik Kjolstad, and Saman Amarasinghe, “Sparse Tensor Transpositions: Brief Announcement,” SPAA, July 2020.
 [Link](https://doi.org/10.1145/3350755.3400245). [Download](/assets/documents/mueller_sparse_2020-1.pdf).
+
+### Algorithms for Efficient Reproducible Floating Point Summation
+Willow Ahrens, James Demmel, and Hong Diep Nguyen, “Algorithms for Efficient Reproducible Floating Point Summation,” ACM Transactions on Mathematical Software, July 2020.
+[Link](https://doi.org/10.1145/3389360). [Download](/assets/documents/ahrens_algorithms_2020.pdf).
 
 ### Sparse Tensor Transpositions
 Suzanne Mueller, Willow Ahrens, Stephen Chou, Fredrik Kjolstad, and Saman Amarasinghe, “Sparse Tensor Transpositions,” arXiv, May 2020.
@@ -78,5 +78,5 @@ W. Ahrens, J. Demmel, and H. D. Nguyen, “Efficient Reproducible Floating Point
 [Link](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-121.html). [Download](/assets/documents/ahrens_efficient_2016.pdf).
 
 ### Parallel Compact Hash Algorithms for Computational Meshes
-R. Tumblin, W. Ahrens, S. Hartse, and R. Robey, “Parallel Compact Hash Algorithms for Computational Meshes,” SIAM J. Sci. Comput., January 2015.
+R. Tumblin, W. Ahrens, S. Hartse, and R. Robey, “Parallel Compact Hash Algorithms for Computational Meshes,” SIAM Journal on Scientific Computing, January 2015.
 [Link](https://doi.org/10.1137/13093371X). [Download](/assets/documents/tumblin_parallel_2015.pdf).
