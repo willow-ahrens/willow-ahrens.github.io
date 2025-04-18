@@ -5,6 +5,10 @@ title: "Publications"
 
 [Curriculum Vitae](/assets/documents/willow_ahrens_cv.pdf)
 
+### Finch: Sparse and Structured Tensor Programming with Control Flow
+Willow Ahrens, Teodoro Fields Collin, Radha Patel, Kyle Deeds, Changwan Hong, and Saman Amarasinghe, “Finch: Sparse and Structured Tensor Programming with Control Flow,” Proc. ACM Program. Lang., April 2025.
+[Link](https://doi.org/10.1145/3720473). [Download](/assets/documents/ahrens_finch_2025.pdf).
+
 ### SySTeC: A Symmetric Sparse Tensor Compiler
 Radha Patel, Willow Ahrens, and Saman Amarasinghe, “SySTeC: A Symmetric Sparse Tensor Compiler,” CGO '25, March 2025.
 [Link](https://doi.org/10.1145/3696443.3708919). [Download](/assets/documents/patel_systec_2025.pdf).
@@ -25,10 +29,6 @@ Jaeyeon Won, Willow Ahrens, Joel S. Emer, and Saman Amarasinghe, “The Continuo
 Vladimir Gladshtein, Qiyuan Zhao, Willow Ahrens, Saman Amarasinghe, and Ilya Sergey, “Mechanised Hypersafety Proofs about Structured Data,” PLDI, June 2024.
 [Link](https://doi.org/10.1145/3656403). [Download](/assets/documents/gladshtein_mechanised_2024.pdf).
 
-### Finch: Sparse and Structured Array Programming with Control Flow
-Willow Ahrens, Teodoro Fields Collin, Radha Patel, Kyle Deeds, Changwan Hong, and Saman Amarasinghe, “Finch: Sparse and Structured Array Programming with Control Flow,” arXiv, April 2024.
-[Link](http://arxiv.org/abs/2404.16730). [Download](/assets/documents/ahrens_finch_2024.pdf).
-
 ### Looplets: A Language for Structured Coiteration
 Willow Ahrens, Daniel Donenfeld, Fredrik Kjolstad, and Saman Amarasinghe, “Looplets: A Language for Structured Coiteration,” CGO, February 2023.
 [Link](https://doi.org/10.1145/3579990.3580020). [Download](/assets/documents/ahrens_looplets_2023.pdf).
@@ -45,13 +45,13 @@ Willow Ahrens, “Contiguous Graph Partitioning For Optimal Total Or Bottleneck 
 Willow Ahrens, and Erik G. Boman, “On Optimal Partitioning For Sparse Matrices In Variable Block Row Format,” arXiv, May 2021.
 [Link](https://doi.org/10.48550/arXiv.2005.12414). [Download](/assets/documents/ahrens_optimal_2021.pdf).
 
-### Sparse Tensor Transpositions: Brief Announcement
-Suzanne Mueller, Willow Ahrens, Stephen Chou, Fredrik Kjolstad, and Saman Amarasinghe, “Sparse Tensor Transpositions: Brief Announcement,” SPAA, July 2020.
-[Link](https://doi.org/10.1145/3350755.3400245). [Download](/assets/documents/mueller_sparse_2020-1.pdf).
-
 ### Algorithms for Efficient Reproducible Floating Point Summation
 Willow Ahrens, James Demmel, and Hong Diep Nguyen, “Algorithms for Efficient Reproducible Floating Point Summation,” ACM Transactions on Mathematical Software, July 2020.
 [Link](https://doi.org/10.1145/3389360). [Download](/assets/documents/ahrens_algorithms_2020.pdf).
+
+### Sparse Tensor Transpositions: Brief Announcement
+Suzanne Mueller, Willow Ahrens, Stephen Chou, Fredrik Kjolstad, and Saman Amarasinghe, “Sparse Tensor Transpositions: Brief Announcement,” SPAA, July 2020.
+[Link](https://doi.org/10.1145/3350755.3400245). [Download](/assets/documents/mueller_sparse_2020-1.pdf).
 
 ### Sparse Tensor Transpositions
 Suzanne Mueller, Willow Ahrens, Stephen Chou, Fredrik Kjolstad, and Saman Amarasinghe, “Sparse Tensor Transpositions,” arXiv, May 2020.
