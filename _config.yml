@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Willow Ahrens
-email: willow.ahrens@mit.edu
+email: ahrens@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The personal website of computer scientist and glassblower Willow Ahrens
 #twitter_username: username
@@ -65,7 +65,7 @@ author:
     #      url: "https://"
     - label: "Email"
       icon: "fas fa-fw icon-pincolor fa-envelope"
-      url: "mailto:willow.ahrens@mit.edu"
+      url: "mailto:ahrens@gatech.edu"
     - label: "Address"
       icon: "fas fa-fw icon-pincolor fa-map-pin"
       url: "https://goo.gl/maps/5ww9WKbinTZLcHT7A"
