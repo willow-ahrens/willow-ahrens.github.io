@@ -10,12 +10,12 @@ Glassblowing adds balance to my life. I blow glass and teach first-time glassblo
 
 # Updates
 
+- August 2025: I have joined the faculty of Georgia Tech as an Assistant Professor in the School of Computer Science!
+
 - February 2025: I have joined the Program Committee for [PLDI 2025](https://pldi25.sigplan.org/) and [CC 2025](https://conf.researchr.org/home/CC-2025).
 
 - February 3, 2025: Systec is in the [MIT News](https://news.mit.edu/2025/user-friendly-system-can-help-developers-build-more-efficient-simulations-and-ai-models-0203)!
 
 - December 18, 2025: Our publication ["Finch: Sparse and Structured Tensor Programming with Control Flow"](https://doi.org/10.1145/3720473) has been accepted to OOPSLA 2025!
-
-- October 27, 2024: I'm excited to announce that I will be joining the faculty of Georgia Tech as an Assistant Professor starting August 1st, 2025.
 
 - July 22, 2024: Radha's paper on [SySTeC](https://doi.org/10.48550/arXiv.2406.09266), the symmetric tensor compiler built using Finch, has been accepted to CGO 2025!
