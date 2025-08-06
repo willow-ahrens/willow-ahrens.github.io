@@ -58,7 +58,8 @@ plugins:
 author:
   name   : "Willow Ahrens"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "Computer Scientist, Mathematician, and Glassblower at MIT."
+  bio    : "Assistant Professor in the School of Computer Science at Georgia Tech."
+  location: "Office 3144, Klaus Advanced <br> Computing Building, Georgia Tech"
   links:
     #    - label: "Website"
     #      icon: "fas fa-fw fa-link"
@@ -66,9 +67,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw icon-pincolor fa-envelope"
       url: "mailto:ahrens@gatech.edu"
-    - label: "Address"
-      icon: "fas fa-fw icon-pincolor fa-map-pin"
-      url: "https://goo.gl/maps/5ww9WKbinTZLcHT7A"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/willow-ahrens"
