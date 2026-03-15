@@ -8,7 +8,19 @@ This spring, I am teaching a course on Parallelizing Compilers, [CS6245](https:/
 
 Glassblowing adds balance to my life. I blow glass and teach first-time glassblowers at the [MIT Glass Lab](https://glasslab.scripts.mit.edu/). If you're curious, I've highlighted some of my favorite creations in my [portfolio](/portfolio/).
 
+# Research Areas at Georgia Tech
+
+- [Programming Languages and Software Engineering](https://scs.gatech.edu/programming-languages-software-engineering)
+
+- [Foundations of Artificial Intelligence](https://scs.gatech.edu/foundations-artificial-intelligence)
+
 # Updates
+
+- March 2026: Our publication [Insum: Sparse GPU Kernels Simplified and Optimized with Indirect Einsums](https://doi.org/10.1145/3779212.3790176) has been accepted to ASPLOS 2026!
+
+- January 2026: I'm teaching a graduate course at Georgia Tech, [CS6245: Parallelizing Compilers](https://parallelizing-compilers.github.io)!
+
+- September 2025: I'm teaching a seminar course at Georgia Tech. [Domain Specific Languages for High-Performance Computing](https://dsls-for-hpc.github.io/)!
 
 - August 2025: I have joined the faculty of Georgia Tech as an Assistant Professor in the School of Computer Science!
 

@@ -5,6 +5,10 @@ title: "Publications"
 
 [Curriculum Vitae](/assets/documents/willow_ahrens_cv.pdf)
 
+### Insum: Sparse GPU Kernels Simplified and Optimized with Indirect Einsums
+Jaeyeon Won, Willow Ahrens, Saman Amarasinghe, and Joel S. Emer, "Insum: Sparse GPU Kernels Simplified and Optimized with Indirect Einsums," ASPLOS '26, March 2026.
+[Link](https://doi.org/10.1145/3779212.3790176). [Download](/assets/documents/won_insum_2026.pdf)
+
 ### Finch: Sparse and Structured Tensor Programming with Control Flow
 Willow Ahrens, Teodoro Fields Collin, Radha Patel, Kyle Deeds, Changwan Hong, and Saman Amarasinghe, “Finch: Sparse and Structured Tensor Programming with Control Flow,” Proc. ACM Program. Lang., April 2025.
 [Link](https://doi.org/10.1145/3720473). [Download](/assets/documents/ahrens_finch_2025.pdf).
